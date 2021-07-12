@@ -1,0 +1,65 @@
+#Site configuration
+title: densi97
+name:  densi97
+author: Fabian Densborn
+work:  IT-Security Student @CISPA
+year: 2019
+
+# Navigation
+nav1: "About me"
+nav2: "Education"
+nav3: "Projects"
+
+# Section1
+sec1: "Fabian Densborn"
+sec2: "About me"
+sec3: "My name is Fabian and I'm a IT-Security Student at the University of Saarland. I work as an Student Helper at <a href='https://cispa.saarland' target='_blank'>CISPA</a>.\n
+I am interested in the area of Web- and Mobile-Security and like to play CTFs in my spare time."
+
+# Section 2
+sec4: "Education"
+sec5: ""
+icon1: "fas fa-graduation-cap"
+icont1: "Master Entrepreneurial Cybersecurity - University of Saarland"
+iconw1: "University of Saarland"
+icon2: ""
+icont2: "2020 - now"
+icon3: "fas fa-university"
+icont3: "Bachelor Cybersecurity - University of Saarland"
+iconw3: "University of Saarland"
+icon4: ""
+icont4: "2016 - 2020"
+icon5: "fas fa-book"
+icont5: "High School - Gymnasium Konz"
+iconw5: "Gymnasium Konz"
+icon6: ""
+icont6: "2007 - 2016"
+
+# Section 3
+sec6: "Projects"
+sec8: "SV Tawern"
+sec9: "Created the <a href='https://www.sv-tawern.de/' target='_blank'>website</a> and the corresponding <a href='https://play.google.com/store/apps/details?id=app.svtawern' target='_blank'>app</a>."
+sec10: "CISPA - Helmhotz Center for Information Security"
+sec11: "Implemented <a href='https://cispa.saarland' target='_blank'>cispa.saarland</a> and some more websites. Also creator of various CTF Challenges."
+sec12: "Created an automated mobile testing framework"
+sec13: "In one of my lectures we needed to create our own big project. I wanted to automate my Mobile Testing routine, so I created a framework, which finds security issues via static and dynamic analysis."
+
+# Social Links
+#facebook: fabian.densborn
+twitter:  densi_1101
+#google: username
+#instagram: username
+#pinterest: username
+#linkedin: username
+#youtube: username
+#spotify: username
+#lastfm: username
+github: densi97
+#stackoverflow: username
+#quora: username
+#reddit: username
+#medium: username
+#vimeo: username
+#keybase: username
+email: desecprod@gmail.com
+
