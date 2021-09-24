@@ -161,6 +161,14 @@
 			width: 85% !important;
 		}
 
+		ul.feature-icons li {
+			margin: 0 !important;
+		}
+
+		.w-0-mobile {
+			width: 100% !important;
+		}
+
 	}
 
 	@media screen and (max-width: 736px) {
@@ -2653,6 +2661,12 @@
 	width: 20% !important;
 }
 
+@media screen and (max-width: 1024px) {
+	.w-0-mobile {
+		width: 100% !important;
+	}
+}
+
 /* XLarge */
 
 	@media screen and (max-width: 1680px) {
@@ -2857,7 +2871,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #FF0000;
+						background: #222;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
