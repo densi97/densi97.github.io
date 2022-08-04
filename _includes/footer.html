@@ -1,5 +1,9 @@
 <div class="container">
     <ul class="copyright">
-        <li>&copy;{{site.year}} {{site.name}}</li>
+        <li>&copy;<span id="year" /> {{site.name}}</li>
     </ul>
 </div>
+
+<script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+</script>
