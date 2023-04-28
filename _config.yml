@@ -1,10 +1,10 @@
 #Site configuration
 title: Fabian Densborn
-name:  Fabian Densborn
+name: Fabian Densborn
 author: Fabian Densborn
-work:  Security Consultant @SEC Consult 
+work: Security Consultant @SEC Consult
 certs: OSCP | eMAPT
-year: 2022
+year: 2023
 
 # Navigation
 nav1: "About me"
@@ -14,7 +14,7 @@ nav4: "Projects"
 
 # Social Links
 #facebook: fabian.densborn
-twitter:  densi_1101
+twitter: densi_1101
 #google: username
 #instagram: username
 #pinterest: username
@@ -29,5 +29,4 @@ github: densi97
 #medium: username
 #vimeo: username
 #keybase: username
-email: desecprod@gmail.com
-
+email: fabi.densborn@gmail.com
